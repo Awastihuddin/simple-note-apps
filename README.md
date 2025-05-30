@@ -1,7 +1,3 @@
-Tentu! Berikut adalah contoh **file README** yang dirancang khusus untuk proyek aplikasi catatan instan Anda, yang sudah mencakup deskripsi proyek, instruksi instalasi, penggunaan, dan lainnya.
-
----
-
 # Aplikasi Catatan Instan
 
 Aplikasi Catatan Instan adalah aplikasi berbasis web yang memungkinkan pengguna untuk membuat, melihat, mengedit, dan menghapus catatan. Aplikasi ini mengimplementasikan operasi **CRUD (Create, Read, Update, Delete)** dengan menggunakan **PHP**, **MySQL**, dan **HTML/CSS/JavaScript** untuk antarmuka pengguna yang responsif.
@@ -100,16 +96,6 @@ Pastikan Anda memiliki perangkat dan perangkat lunak berikut:
 
    * Gunakan dropdown untuk memilih kriteria penyortiran (Tanggal Terbaru, Tanggal Terlama, Judul A-Z, Judul Z-A). Halaman akan memuat ulang dengan catatan yang disortir sesuai pilihan Anda.
 
-## Contributing
-
-Jika Anda ingin berkontribusi pada proyek ini, ikuti langkah-langkah berikut:
-
-1. Fork repositori ini
-2. Buat cabang baru (`git checkout -b fitur-baru`)
-3. Lakukan perubahan yang diperlukan, lalu lakukan commit (`git commit -m 'Menambahkan fitur baru'`)
-4. Push perubahan Anda ke cabang baru (`git push origin fitur-baru`)
-5. Buat Pull Request untuk mendiskusikan perubahan tersebut
-
 ## Lisensi
 
 Proyek ini dilisensikan di bawah **MIT License** – lihat file `LICENSE` untuk detail lebih lanjut.
@@ -120,8 +106,3 @@ Proyek ini dilisensikan di bawah **MIT License** – lihat file `LICENSE` untuk 
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 * [FontAwesome](https://fontawesome.com/)
 
----
-
-Ini adalah template **README** yang dapat Anda sesuaikan lebih lanjut jika diperlukan. Anda dapat menambahkan lebih banyak detail atau mengganti beberapa bagian dengan informasi yang lebih relevan sesuai kebutuhan proyek Anda.
-
-Apakah ada bagian tertentu yang ingin Anda modifikasi atau perbaiki?
