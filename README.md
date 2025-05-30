@@ -2,6 +2,12 @@
 
 Aplikasi Catatan Instan adalah aplikasi berbasis web yang memungkinkan pengguna untuk membuat, melihat, mengedit, dan menghapus catatan. Aplikasi ini mengimplementasikan operasi **CRUD (Create, Read, Update, Delete)** dengan menggunakan **PHP**, **MySQL**, dan **HTML/CSS/JavaScript** untuk antarmuka pengguna yang responsif.
 
+## Tampilan Aplikasi
+![Tampilan Halaman Utama](images/index.php.jpeg)
+![Membuat Catatan Baru](images/create.php.jpeg)
+![Melihat Isi Catatan](images/view.php.jpeg)
+![Mengedit Isi Catatan](images/edit.php.jpeg)
+
 ## Deskripsi
 
 Aplikasi ini memungkinkan pengguna untuk:
@@ -34,7 +40,7 @@ Aplikasi ini dirancang dengan antarmuka pengguna yang sederhana dan mudah diguna
 
 Pastikan Anda memiliki perangkat dan perangkat lunak berikut:
 
-* **Web Server**: Apache atau Nginx
+* **Web Server**: Apache via Xampp atau Laragon
 * **PHP**: Versi 7.4 atau lebih tinggi
 * **MySQL**: Untuk database
 * **Browser**: Chrome, Firefox, atau browser modern lainnya
